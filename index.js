@@ -1,4 +1,4 @@
 var audio = document.getElementById("play");
-        function sound(){
+        function meow(){
             audio.play();
         }
